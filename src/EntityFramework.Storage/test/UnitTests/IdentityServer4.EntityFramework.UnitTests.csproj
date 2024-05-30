@@ -4,7 +4,7 @@
     <TargetFrameworks>net6.0</TargetFrameworks>
 
     <AssemblyOriginatorKeyFile>../../../../key.snk</AssemblyOriginatorKeyFile>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>False</SignAssembly>
     <PublicSign Condition="'$(OS)' != 'Windows_NT'">true</PublicSign>
   </PropertyGroup>
 
